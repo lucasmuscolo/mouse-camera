@@ -54,7 +54,7 @@ El proyecto está diseñado para ser robusto y altamente configurable, permitien
 
 1.  Ejecuta el script desde tu terminal:
     ```bash
-    python mouse_virtual_v7.py
+    python mouse_virtual.py
     ```
 
 2.  **Activación:** El programa iniciará en modo **Inactivo**. Muestra tu mano abierta (palma ✋) a la cámara. Un contador de 5 segundos aparecerá. Mantenla quieta hasta que se active.
